@@ -12,11 +12,11 @@
 
 .calculator-screen {
   width: 100%;
-  height: 30vh;
+  height: 25vh;
   background-color: #252525;
   color: #fff;
   text-align: right;
-  font-size: 65px;
+  font-size: 36px;
   border: none;
   padding: 0 20px;
   box-sizing: border-box;
@@ -32,7 +32,7 @@
 
 button {
   width: 25%;
-  height: 14vh;
+  height: 15vh;
 }
 
 button {
